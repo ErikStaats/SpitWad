@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>player_control_type</key>
+	<string>Slider</string>
+	<key>high_scores</key>
+	<array>
+		<array>
+			<string>Lou Gerat</string>
+			<integer>5000</integer>
+		</array>
+		<array>
+			<string>Lou Gerat</string>
+			<integer>4000</integer>
+		</array>
+		<array>
+			<string>Lou Gerat</string>
+			<integer>3000</integer>
+		</array>
+		<array>
+			<string>Lou Gerat</string>
+			<integer>2000</integer>
+		</array>
+		<array>
+			<string>Lou Gerat</string>
+			<integer>50</integer>
+		</array>
+	</array>
+</dict>
+</plist>
